@@ -1,6 +1,6 @@
 node {
     stage('Code Clone') {
-		git branch: 'main', url: 'https://github.com/Rameshagwd/Devops.git'
+		git branch: 'main', url: 'https://github.com/Rameshagwd/Multipipeline.git'
     }
 	
 	stage('MVN Clean') {
