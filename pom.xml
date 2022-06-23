@@ -21,13 +21,5 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       <scope>test</scope>  
     </dependency>  
   </dependencies> 
-  
-    <distributionManagement>
-        <snapshotRepository>
-           <id>deployment</id>
-           <name>maven-snapshots</name>
-           <url>http://10.32.39.203:8081/repository/First_Deploy/</url>
-        </snapshotRepository>
-    </distributionManagement>  
-  
+    
 </project>  
