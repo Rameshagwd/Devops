@@ -23,10 +23,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   </dependencies> 
   
   <distributionManagement>
-        <snapshotRepository>
-           <id>deployment</id>
-           <url>http://10.32.39.203:8081/repository/First_Deploy/</url>
-        </snapshotRepository>
-    </distributionManagement> 
- 
+       <repository>
+         <id>deployment</id>
+         <url>http://10.32.39.203:8081/repository/First_Deploy</url>
+       </repository>
+   </distributionManagement>
+   
 </project>  
