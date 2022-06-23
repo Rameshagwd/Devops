@@ -25,7 +25,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <distributionManagement>
        <repository>
          <id>deployment</id>
-         <url>http://10.32.39.203:8081/repository/First_Deploy</url>
+         <url>http://10.32.39.203:8081/repository/Sec_deploy/</url>
        </repository>
    </distributionManagement>
    
